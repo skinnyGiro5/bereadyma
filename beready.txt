@@ -1,0 +1,10 @@
+<! DOCTYPE html>
+<head>
+  <body>
+    <h1><strong>SOIS PRETE POUR LE 23</strong></h1>
+      <br><p>Je vais bien te faire <em>fêter</em> ça mama !</p>
+      <br><h6>ça va pas être de la trotinette>/h6>
+      <br><img src="https://media.tenor.com/LJESz-UrvGAAAAAe/dirty-emoji.png">
+      <p><em><strong>NTAMAHUNGIRO RYAN</strong></em>
+  </body>
+</head>
